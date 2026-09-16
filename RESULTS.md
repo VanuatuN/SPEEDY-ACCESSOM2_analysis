@@ -18,8 +18,6 @@ Both experiments start from the same ocean/sea-ice initial state and use Repeat 
 - ocean circulation and overturning
 - differences between SPEEDY-forced and JRA55-do-forced ACCESS-OM2
 
-## Figures
-
 ![Global mean SST](figures/access_om2_global_mean_sst_different_forcing.png)
 
 ## Results
