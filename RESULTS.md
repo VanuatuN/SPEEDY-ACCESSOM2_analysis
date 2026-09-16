@@ -9,10 +9,10 @@ Two 100-year ACCESS-OM2 1° experiments Repeat Year Forcing:
 
 Both experiments start from the same ocean/sea-ice initial state and use Repeat Year Forcing (RYF).
 
-- model spin-up and long-term drift - done
+- model spin-up and long-term drift --- done
 - numerical stability
-- sea-surface temperature - done
-- surface heat fluxes - done
+- sea-surface temperature --- done
+- surface heat fluxes --- done
 - kinetic energy
 - meridional heat transport
 - ocean circulation and overturning
