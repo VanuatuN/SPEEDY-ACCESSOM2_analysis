@@ -19,8 +19,4 @@ Both experiments start from the same ocean/sea-ice initial state and use Repeat 
 - differences between SPEEDY-forced and JRA55-do-forced ACCESS-OM2
 
 ![Global mean SST](figures/access_om2_global_mean_sst_different_forcing.png)
-
-## Results
-
-See [RESULTS.md](RESULTS.md) for the evolving results.
-EOF
+![Global mean SST_anom](figures/access_om2_global_mean_sst_anom_different_forcing.png)
