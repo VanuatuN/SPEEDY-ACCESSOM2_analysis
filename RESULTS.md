@@ -22,4 +22,4 @@ Both experiments start from the same ocean/sea-ice initial state and use Repeat 
 ![Global mean SST_anom](figures/access_om2_global_mean_sst_anom_different_forcing.png)
 ![Global mean heat](figures/access_om2_global_mean_sflux_different_forcing.png)
 ![Cumulative_heat_uptake](figures/access_om2_global_mean_cum_heatuptake_different_forcing.png)
-![Ann_heat_uptake]/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY-ACCESSOM2_analysis/figures/access_om2_global_mean_ann_heatuptake_different_forcing.png)
+![Ann_heat_uptake](/leonardo_scratch/fast/ICT26_ESP/ntilinin/SPEEDY-ACCESSOM2_analysis/figures/access_om2_global_mean_ann_heatuptake_different_forcing.png)
