@@ -5,3 +5,4 @@ __pycache__/
 EOF
 *.err
 *.out
+logs/
