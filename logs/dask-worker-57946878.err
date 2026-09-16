@@ -1,0 +1,137 @@
+2026-09-16 11:43:27,342 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.3.35:37677'
+2026-09-16 11:43:27,351 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.3.35:34507'
+2026-09-16 11:43:27,354 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.3.35:33473'
+2026-09-16 11:43:27,356 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.3.35:34451'
+2026-09-16 11:43:27,362 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.3.35:46811'
+2026-09-16 11:43:27,366 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.3.35:39347'
+2026-09-16 11:43:27,367 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.3.35:43147'
+2026-09-16 11:43:27,369 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.3.35:40855'
+2026-09-16 11:43:28,924 - distributed.worker - INFO -       Start worker at:    tcp://10.128.3.35:40003
+2026-09-16 11:43:28,924 - distributed.worker - INFO -       Start worker at:    tcp://10.128.3.35:35173
+2026-09-16 11:43:28,924 - distributed.worker - INFO -          Listening to:    tcp://10.128.3.35:40003
+2026-09-16 11:43:28,924 - distributed.worker - INFO -       Start worker at:    tcp://10.128.3.35:34725
+2026-09-16 11:43:28,924 - distributed.worker - INFO -       Start worker at:    tcp://10.128.3.35:34375
+2026-09-16 11:43:28,924 - distributed.worker - INFO -       Start worker at:    tcp://10.128.3.35:35231
+2026-09-16 11:43:28,924 - distributed.worker - INFO -       Start worker at:    tcp://10.128.3.35:35313
+2026-09-16 11:43:28,924 - distributed.worker - INFO -          Listening to:    tcp://10.128.3.35:35173
+2026-09-16 11:43:28,924 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-4
+2026-09-16 11:43:28,924 - distributed.worker - INFO -          Listening to:    tcp://10.128.3.35:34725
+2026-09-16 11:43:28,924 - distributed.worker - INFO -          Listening to:    tcp://10.128.3.35:34375
+2026-09-16 11:43:28,924 - distributed.worker - INFO -          Listening to:    tcp://10.128.3.35:35231
+2026-09-16 11:43:28,924 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-7
+2026-09-16 11:43:28,924 - distributed.worker - INFO -          Listening to:    tcp://10.128.3.35:35313
+2026-09-16 11:43:28,924 - distributed.worker - INFO -          dashboard at:          10.128.3.35:36855
+2026-09-16 11:43:28,924 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-3
+2026-09-16 11:43:28,924 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-6
+2026-09-16 11:43:28,925 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-1
+2026-09-16 11:43:28,925 - distributed.worker - INFO -          dashboard at:          10.128.3.35:41393
+2026-09-16 11:43:28,925 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,925 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-5
+2026-09-16 11:43:28,925 - distributed.worker - INFO -          dashboard at:          10.128.3.35:37659
+2026-09-16 11:43:28,925 - distributed.worker - INFO -          dashboard at:          10.128.3.35:40473
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO -          dashboard at:          10.128.3.35:44163
+2026-09-16 11:43:28,925 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,925 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,925 - distributed.worker - INFO -          dashboard at:          10.128.3.35:40241
+2026-09-16 11:43:28,925 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,925 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO -               Threads:                          1
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO -               Threads:                          1
+2026-09-16 11:43:28,925 - distributed.worker - INFO -               Threads:                          1
+2026-09-16 11:43:28,925 - distributed.worker - INFO -               Threads:                          1
+2026-09-16 11:43:28,925 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-16 11:43:28,925 - distributed.worker - INFO -               Threads:                          1
+2026-09-16 11:43:28,925 - distributed.worker - INFO -               Threads:                          1
+2026-09-16 11:43:28,925 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-16 11:43:28,925 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-tnpzms7n
+2026-09-16 11:43:28,925 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-16 11:43:28,925 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-16 11:43:28,925 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-f7q5vccn
+2026-09-16 11:43:28,925 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-16 11:43:28,925 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-quzb5_5f
+2026-09-16 11:43:28,925 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-u51yrkt5
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-16 11:43:28,925 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-y42pr54d
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-3oumjihh
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,925 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,928 - distributed.worker - INFO -       Start worker at:    tcp://10.128.3.35:34019
+2026-09-16 11:43:28,928 - distributed.worker - INFO -          Listening to:    tcp://10.128.3.35:34019
+2026-09-16 11:43:28,928 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-2
+2026-09-16 11:43:28,928 - distributed.worker - INFO -          dashboard at:          10.128.3.35:43033
+2026-09-16 11:43:28,928 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,928 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,928 - distributed.worker - INFO -               Threads:                          1
+2026-09-16 11:43:28,928 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-16 11:43:28,928 - distributed.worker - INFO -       Start worker at:    tcp://10.128.3.35:34461
+2026-09-16 11:43:28,928 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-d_y__cfm
+2026-09-16 11:43:28,928 - distributed.worker - INFO -          Listening to:    tcp://10.128.3.35:34461
+2026-09-16 11:43:28,928 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,928 - distributed.worker - INFO -           Worker name:           SLURMCluster-0-0
+2026-09-16 11:43:28,928 - distributed.worker - INFO -          dashboard at:          10.128.3.35:33593
+2026-09-16 11:43:28,928 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,928 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,928 - distributed.worker - INFO -               Threads:                          1
+2026-09-16 11:43:28,929 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-16 11:43:28,929 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-yg681cfo
+2026-09-16 11:43:28,929 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,957 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-16 11:43:28,957 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,957 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,958 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:42681
+2026-09-16 11:43:28,958 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-16 11:43:28,959 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,959 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,959 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:42681
+2026-09-16 11:43:28,961 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-16 11:43:28,961 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-16 11:43:28,961 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,961 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,962 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,962 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,962 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:42681
+2026-09-16 11:43:28,962 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-16 11:43:28,962 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:42681
+2026-09-16 11:43:28,962 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-16 11:43:28,962 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,962 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,963 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,963 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,963 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:42681
+2026-09-16 11:43:28,963 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:42681
+2026-09-16 11:43:28,963 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-16 11:43:28,964 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,964 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,964 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:42681
+2026-09-16 11:43:28,964 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-16 11:43:28,965 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:42681
+2026-09-16 11:43:28,965 - distributed.worker - INFO - -------------------------------------------------
+2026-09-16 11:43:28,965 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:42681
+2026-09-16 11:44:16,047 - distributed.core - INFO - Event loop was unresponsive in Worker for 3.48s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+2026-09-16 11:44:16,048 - distributed.core - INFO - Event loop was unresponsive in Worker for 3.48s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+2026-09-16 11:44:16,048 - distributed.core - INFO - Event loop was unresponsive in Worker for 3.48s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+2026-09-16 11:44:16,049 - distributed.core - INFO - Event loop was unresponsive in Worker for 3.48s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+2026-09-16 11:44:16,049 - distributed.core - INFO - Event loop was unresponsive in Worker for 3.49s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+2026-09-16 11:44:16,051 - distributed.core - INFO - Event loop was unresponsive in Worker for 3.47s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+2026-09-16 11:44:16,051 - distributed.core - INFO - Event loop was unresponsive in Worker for 3.47s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+2026-09-16 11:44:16,067 - distributed.core - INFO - Event loop was unresponsive in Worker for 3.50s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+[2026-09-16T12:21:29.205] error: *** JOB 57946878 ON lrdn4223 CANCELLED AT 2026-09-16T12:21:29 DUE to SIGNAL Terminated ***
+2026-09-16 12:21:29,205 - distributed.worker - INFO - Stopping worker at tcp://10.128.3.35:35173. Reason: scheduler-close
+2026-09-16 12:21:29,205 - distributed.worker - INFO - Stopping worker at tcp://10.128.3.35:34019. Reason: scheduler-close
+2026-09-16 12:21:29,205 - distributed.worker - INFO - Stopping worker at tcp://10.128.3.35:34375. Reason: scheduler-close
+2026-09-16 12:21:29,205 - distributed.worker - INFO - Stopping worker at tcp://10.128.3.35:35231. Reason: scheduler-close
+2026-09-16 12:21:29,205 - distributed.worker - INFO - Stopping worker at tcp://10.128.3.35:40003. Reason: scheduler-close
+2026-09-16 12:21:29,205 - distributed.worker - INFO - Stopping worker at tcp://10.128.3.35:35313. Reason: scheduler-close
+2026-09-16 12:21:29,206 - distributed.worker - INFO - Stopping worker at tcp://10.128.3.35:34461. Reason: scheduler-close
+2026-09-16 12:21:29,206 - distributed.worker - INFO - Stopping worker at tcp://10.128.3.35:34725. Reason: scheduler-close

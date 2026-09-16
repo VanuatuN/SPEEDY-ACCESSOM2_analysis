@@ -1,0 +1,1079 @@
+2026-09-12 18:11:43,370 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.2.254:40223'
+2026-09-12 18:11:43,378 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.2.254:45177'
+2026-09-12 18:11:43,379 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.2.254:39729'
+2026-09-12 18:11:43,380 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.2.254:38593'
+2026-09-12 18:11:43,382 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.2.254:42267'
+2026-09-12 18:11:43,383 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.2.254:37423'
+2026-09-12 18:11:43,384 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.2.254:40491'
+2026-09-12 18:11:43,388 - distributed.nanny - INFO -         Start Nanny at: 'tcp://10.128.2.254:34179'
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:43107
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:38223
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:37499
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:44879
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:39881
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:40791
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:41855
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:43107
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:38223
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:37499
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:40791
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:44879
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:39881
+2026-09-12 18:11:44,938 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-3
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:41855
+2026-09-12 18:11:44,938 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-5
+2026-09-12 18:11:44,938 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-6
+2026-09-12 18:11:44,938 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-7
+2026-09-12 18:11:44,938 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-4
+2026-09-12 18:11:44,938 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-1
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          dashboard at:         10.128.2.254:39819
+2026-09-12 18:11:44,938 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-2
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          dashboard at:         10.128.2.254:34799
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          dashboard at:         10.128.2.254:40319
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          dashboard at:         10.128.2.254:37997
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          dashboard at:         10.128.2.254:36401
+2026-09-12 18:11:44,938 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          dashboard at:         10.128.2.254:40391
+2026-09-12 18:11:44,938 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:44,938 - distributed.worker - INFO -          dashboard at:         10.128.2.254:39269
+2026-09-12 18:11:44,938 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:44,938 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:44,938 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:11:44,938 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:11:44,938 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:11:44,938 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:11:44,938 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:11:44,938 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:11:44,938 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:11:44,938 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:11:44,938 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:11:44,938 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-xa_v92aq
+2026-09-12 18:11:44,938 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:11:44,938 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-ljjkwxau
+2026-09-12 18:11:44,938 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:11:44,938 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-oz0fvdqt
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-z2aw2aek
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-1azdvii7
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-ntki60os
+2026-09-12 18:11:44,938 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-sy7ihgiq
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,938 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,941 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:43191
+2026-09-12 18:11:44,941 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:43191
+2026-09-12 18:11:44,941 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-0
+2026-09-12 18:11:44,941 - distributed.worker - INFO -          dashboard at:         10.128.2.254:44945
+2026-09-12 18:11:44,941 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:44,941 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:44,941 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:11:44,941 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:11:44,941 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-jaca7tsg
+2026-09-12 18:11:44,941 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,574 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:11:46,575 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:46,575 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,575 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:11:46,575 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:11:46,576 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:46,576 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,576 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:11:46,576 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:46,576 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,576 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:11:46,577 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:11:46,578 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:11:46,578 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:46,579 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,579 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:11:46,579 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:11:46,579 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:46,579 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,580 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:11:46,581 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:11:46,581 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:46,581 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,581 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:11:46,582 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:11:46,582 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:46,582 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,582 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:11:46,582 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:11:46,583 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:11:46,583 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:11:46,583 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:34:12,875 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:45927
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:55826 remote=tcp://10.128.2.254:45927>: ConnectionResetError: [Errno 104] Connection reset by peer
+Exception ignored in: <function CachingFileManager.__del__ at 0x14ae4e88eac0>
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 258, in __del__
+    self.close(needs_lock=False)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 242, in close
+    file.close()
+  File "src/netCDF4/_netCDF4.pyx", line 2680, in netCDF4._netCDF4.Dataset.close
+  File "src/netCDF4/_netCDF4.pyx", line 2647, in netCDF4._netCDF4.Dataset._close
+  File "src/netCDF4/_netCDF4.pyx", line 2164, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: HDF error
+double free or corruption (!prev)
+2026-09-12 18:34:12,949 - distributed.nanny - INFO - Worker process 3261870 was killed by signal 6
+2026-09-12 18:34:12,952 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:34:12,955 - distributed.nanny - INFO - Worker process 3261897 was killed by signal 11
+2026-09-12 18:34:12,957 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:34:13,890 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:39477
+2026-09-12 18:34:13,890 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:39477
+2026-09-12 18:34:13,890 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-4
+2026-09-12 18:34:13,890 - distributed.worker - INFO -          dashboard at:         10.128.2.254:41149
+2026-09-12 18:34:13,890 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:34:13,890 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:34:13,890 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:34:13,890 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:34:13,890 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-2ba0aiy3
+2026-09-12 18:34:13,890 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:34:13,891 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:35047
+2026-09-12 18:34:13,891 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:35047
+2026-09-12 18:34:13,892 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-7
+2026-09-12 18:34:13,892 - distributed.worker - INFO -          dashboard at:         10.128.2.254:33925
+2026-09-12 18:34:13,892 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:34:13,892 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:34:13,892 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:34:13,892 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:34:13,892 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-rd7__bxk
+2026-09-12 18:34:13,892 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:34:14,225 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:34:14,225 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:34:14,225 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:34:14,226 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:34:14,235 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:34:14,236 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:34:14,236 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:34:14,236 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:38:34,265 - distributed.nanny - INFO - Worker process 3261892 was killed by signal 11
+2026-09-12 18:38:34,265 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:37499
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:52148 remote=tcp://10.128.2.254:37499>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:38:34,269 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:38:34,298 - distributed.nanny - INFO - Worker process 3261850 was killed by signal 11
+2026-09-12 18:38:34,301 - distributed.nanny - WARNING - Restarting worker
+Exception ignored in: <function CachingFileManager.__del__ at 0x14eb58132fc0>
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 258, in __del__
+    self.close(needs_lock=False)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 242, in close
+    file.close()
+  File "src/netCDF4/_netCDF4.pyx", line 2680, in netCDF4._netCDF4.Dataset.close
+  File "src/netCDF4/_netCDF4.pyx", line 2647, in netCDF4._netCDF4.Dataset._close
+  File "src/netCDF4/_netCDF4.pyx", line 2164, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: HDF error
+2026-09-12 18:38:34,351 - distributed.nanny - INFO - Worker process 3287563 was killed by signal 11
+2026-09-12 18:38:34,352 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:38:34,575 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:37499
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1485, in connect
+    return await self._connect(addr=addr, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1429, in _connect
+    comm = await connect(
+           ^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/core.py", line 342, in connect
+    comm = await wait_for(
+           ^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/utils.py", line 1910, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 547, in connect
+    stream = await self.client.connect(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/tcpclient.py", line 279, in connect
+    af, addr, stream = await connector.start(connect_timeout=timeout)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1476, in connect
+    async with asyncio.timeout(math.inf) as scope:
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/asyncio/timeouts.py", line 111, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2878, in get_data_from_worker
+    comm = await rpc.connect(worker)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1497, in connect
+    raise CommClosedError(reason)
+distributed.comm.core.CommClosedError: Address removed.
+2026-09-12 18:38:34,662 - distributed.nanny - INFO - Worker process 3261856 was killed by signal 11
+2026-09-12 18:38:34,662 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:39881
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:54136 remote=tcp://10.128.2.254:39881>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:38:34,665 - distributed.nanny - WARNING - Restarting worker
+Type = File(72057594037927945) name='/'2026-09-12 18:38:34,768 - distributed.nanny - INFO - Worker process 3261877 was killed by signal 11
+2026-09-12 18:38:34,770 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:38:35,282 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:33329
+2026-09-12 18:38:35,282 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:33329
+2026-09-12 18:38:35,282 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-6
+2026-09-12 18:38:35,282 - distributed.worker - INFO -          dashboard at:         10.128.2.254:40159
+2026-09-12 18:38:35,282 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:35,282 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,282 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:38:35,282 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:38:35,282 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-ffb_zhc0
+2026-09-12 18:38:35,282 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,316 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:35939
+2026-09-12 18:38:35,316 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:35939
+2026-09-12 18:38:35,316 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-0
+2026-09-12 18:38:35,316 - distributed.worker - INFO -          dashboard at:         10.128.2.254:37869
+2026-09-12 18:38:35,316 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:35,316 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,316 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:38:35,316 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:38:35,316 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-210aleic
+2026-09-12 18:38:35,316 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,357 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:44759
+2026-09-12 18:38:35,357 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:44759
+2026-09-12 18:38:35,357 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-7
+2026-09-12 18:38:35,357 - distributed.worker - INFO -          dashboard at:         10.128.2.254:35339
+2026-09-12 18:38:35,357 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:35,357 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,357 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:38:35,357 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:38:35,357 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-rh_j2f1s
+2026-09-12 18:38:35,357 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,645 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:38:35,645 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:35,645 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,646 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:38:35,671 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:40969
+2026-09-12 18:38:35,672 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:40969
+2026-09-12 18:38:35,672 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-1
+2026-09-12 18:38:35,672 - distributed.worker - INFO -          dashboard at:         10.128.2.254:37703
+2026-09-12 18:38:35,672 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:35,672 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,672 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:38:35,672 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:38:35,672 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-95imub22
+2026-09-12 18:38:35,672 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,694 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:38:35,694 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:35,694 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,695 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:38:35,711 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:38:35,712 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:35,712 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,712 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:38:35,765 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:33975
+2026-09-12 18:38:35,765 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:33975
+2026-09-12 18:38:35,765 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-5
+2026-09-12 18:38:35,765 - distributed.worker - INFO -          dashboard at:         10.128.2.254:46325
+2026-09-12 18:38:35,766 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:35,766 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:35,766 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:38:35,766 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:38:35,766 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-psbm0z0c
+2026-09-12 18:38:35,766 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:36,022 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:38:36,023 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:36,023 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:36,023 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:38:36,108 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:38:36,108 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:38:36,108 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:38:36,109 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:40:45,669 - distributed.worker - ERROR - Compute Failed
+Key:       ('open_dataset-concatenate-889ce2328df3264d16d91ff89efe1869', 3, 0, 0)
+State:     executing
+Task:  <Task ('open_dataset-concatenate-889ce2328df3264d16d91ff89efe1869', 3, 0, 0) _execute_subgraph(...)>
+Exception: "OSError(-101, 'NetCDF: HDF error')"
+Traceback: '  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/dask/array/core.py", line 138, in getter\n    c = np.asarray(c)\n        ^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 686, in __array__\n    return np.asarray(self.get_duck_array(), dtype=dtype, copy=copy)\n                      ^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 691, in get_duck_array\n    return self.array.get_duck_array()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 924, in get_duck_array\n    return self.array.get_duck_array()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/coding/common.py", line 80, in get_duck_array\n    return self.func(self.array.get_duck_array())\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 764, in get_duck_array\n    array = self.array[self.key]\n            ~~~~~~~~~~^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 117, in __getitem__\n    return indexing.explicit_indexing_adapter(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 1156, in explicit_indexing_adapter\n    result = raw_indexing_method(raw_key.tuple)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 129, in _getitem\n    original_array = self.get_array(needs_lock=False)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 108, in get_array\n    ds = self.datastore._acquire(needs_lock)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 532, in _acquire\n    with self._manager.acquire_context(needs_lock) as root:\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/contextlib.py", line 137, in __enter__\n    return next(self.gen)\n           ^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 207, in acquire_context\n    file, cached = self._acquire_with_cache_info(needs_lock)\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 225, in _acquire_with_cache_info\n    file = self._opener(*self._args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "src/netCDF4/_netCDF4.pyx", line 2521, in netCDF4._netCDF4.Dataset.__init__\n  File "src/netCDF4/_netCDF4.pyx", line 2158, in netCDF4._netCDF4._ensure_nc_success\n'
+
+2026-09-12 18:40:45,689 - distributed.worker - ERROR - Compute Failed
+Key:       ('open_dataset-concatenate-889ce2328df3264d16d91ff89efe1869', 71, 0, 0)
+State:     executing
+Task:  <Task ('open_dataset-concatenate-889ce2328df3264d16d91ff89efe1869', 71, 0, 0) _execute_subgraph(...)>
+Exception: 'RuntimeError("NetCDF: Can\'t open HDF5 attribute")'
+Traceback: '  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/dask/array/core.py", line 138, in getter\n    c = np.asarray(c)\n        ^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 686, in __array__\n    return np.asarray(self.get_duck_array(), dtype=dtype, copy=copy)\n                      ^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 691, in get_duck_array\n    return self.array.get_duck_array()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 924, in get_duck_array\n    return self.array.get_duck_array()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/coding/common.py", line 80, in get_duck_array\n    return self.func(self.array.get_duck_array())\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 764, in get_duck_array\n    array = self.array[self.key]\n            ~~~~~~~~~~^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 117, in __getitem__\n    return indexing.explicit_indexing_adapter(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 1156, in explicit_indexing_adapter\n    result = raw_indexing_method(raw_key.tuple)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 129, in _getitem\n    original_array = self.get_array(needs_lock=False)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 108, in get_array\n    ds = self.datastore._acquire(needs_lock)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 532, in _acquire\n    with self._manager.acquire_context(needs_lock) as root:\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/contextlib.py", line 137, in __enter__\n    return next(self.gen)\n           ^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 207, in acquire_context\n    file, cached = self._acquire_with_cache_info(needs_lock)\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 225, in _acquire_with_cache_info\n    file = self._opener(*self._args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "src/netCDF4/_netCDF4.pyx", line 2540, in netCDF4._netCDF4.Dataset.__init__\n  File "src/netCDF4/_netCDF4.pyx", line 2055, in netCDF4._netCDF4._get_vars\n  File "src/netCDF4/_netCDF4.pyx", line 2164, in netCDF4._netCDF4._ensure_nc_success\n'
+
+2026-09-12 18:45:29,900 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:41855
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:56196 remote=tcp://10.128.2.254:41855>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:45:29,901 - distributed.nanny - INFO - Worker process 3261860 was killed by signal 11
+2026-09-12 18:45:29,903 - distributed.nanny - INFO - Worker process 3287686 was killed by signal 11
+2026-09-12 18:45:29,901 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:35939
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:47914 remote=tcp://10.128.2.254:35939>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:45:29,904 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:45:29,905 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:45:29,932 - distributed.nanny - INFO - Worker process 3287698 was killed by signal 11
+2026-09-12 18:45:29,934 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:45:29,960 - distributed.nanny - INFO - Worker process 3287559 was killed by signal 11
+2026-09-12 18:45:29,961 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:45:29,959 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:39477
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2878, in get_data_from_worker
+    comm = await rpc.connect(worker)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1485, in connect
+    return await self._connect(addr=addr, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1429, in _connect
+    comm = await connect(
+           ^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/core.py", line 377, in connect
+    handshake = await comm.read()
+                ^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed)  local=tcp://10.128.2.254:42474 remote=tcp://10.128.2.254:39477>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:45:29,988 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:45183
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2878, in get_data_from_worker
+    comm = await rpc.connect(worker)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1485, in connect
+    return await self._connect(addr=addr, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1429, in _connect
+    comm = await connect(
+           ^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/core.py", line 377, in connect
+    handshake = await comm.read()
+                ^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed)  local=tcp://10.128.2.254:40164 remote=tcp://10.128.2.254:45183>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:45:30,889 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:46783
+2026-09-12 18:45:30,889 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:46783
+2026-09-12 18:45:30,889 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-2
+2026-09-12 18:45:30,889 - distributed.worker - INFO -          dashboard at:         10.128.2.254:35183
+2026-09-12 18:45:30,889 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:45:30,889 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:30,889 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:45:30,890 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:45:30,890 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-4syq4xc5
+2026-09-12 18:45:30,890 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:30,890 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:40471
+2026-09-12 18:45:30,890 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:40471
+2026-09-12 18:45:30,890 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-0
+2026-09-12 18:45:30,890 - distributed.worker - INFO -          dashboard at:         10.128.2.254:45043
+2026-09-12 18:45:30,890 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:45:30,890 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:30,890 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:45:30,891 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:45:30,891 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-vsvxe_ga
+2026-09-12 18:45:30,891 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:30,907 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:38955
+2026-09-12 18:45:30,907 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:38955
+2026-09-12 18:45:30,907 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-1
+2026-09-12 18:45:30,907 - distributed.worker - INFO -          dashboard at:         10.128.2.254:37167
+2026-09-12 18:45:30,907 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:45:30,907 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:30,907 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:45:30,907 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:45:30,907 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-yi_54uux
+2026-09-12 18:45:30,907 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:30,918 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:43279
+2026-09-12 18:45:30,918 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:43279
+2026-09-12 18:45:30,918 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-4
+2026-09-12 18:45:30,918 - distributed.worker - INFO -          dashboard at:         10.128.2.254:33483
+2026-09-12 18:45:30,918 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:45:30,918 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:30,918 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:45:30,918 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:45:30,918 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-50hpxhk_
+2026-09-12 18:45:30,919 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:31,230 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:45:31,231 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:45:31,231 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:31,232 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:45:31,240 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:45:31,240 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:45:31,240 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:31,241 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:45:31,260 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:45:31,260 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:45:31,260 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:31,261 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:45:31,269 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:45:31,269 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:45:31,269 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:45:31,270 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:09,743 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:38279
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:51328 remote=tcp://10.128.2.254:38279>: ConnectionResetError: [Errno 104] Connection reset by peer
+Exception ignored in: <function CachingFileManager.__del__ at 0x14b8027232e0>
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 258, in __del__
+    self.close(needs_lock=False)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 242, in close
+    file.close()
+  File "src/netCDF4/_netCDF4.pyx", line 2680, in netCDF4._netCDF4.Dataset.close
+  File "src/netCDF4/_netCDF4.pyx", line 2647, in netCDF4._netCDF4.Dataset._close
+  File "src/netCDF4/_netCDF4.pyx", line 2164, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: HDF error
+2026-09-12 18:47:10,174 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:40461
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:57608 remote=tcp://10.128.2.254:40461>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:47:10,230 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:43107
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:39538 remote=tcp://10.128.2.254:43107>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:47:10,231 - distributed.nanny - INFO - Worker process 3261866 was killed by signal 11
+2026-09-12 18:47:10,233 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:10,276 - distributed.nanny - INFO - Worker process 3287937 was killed by signal 11
+2026-09-12 18:47:10,277 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:10,274 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:40471
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:56788 remote=tcp://10.128.2.254:40471>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:47:11,166 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:45307
+2026-09-12 18:47:11,166 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:45307
+2026-09-12 18:47:11,166 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-3
+2026-09-12 18:47:11,166 - distributed.worker - INFO -          dashboard at:         10.128.2.254:46803
+2026-09-12 18:47:11,166 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:11,166 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:11,166 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:11,166 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:11,166 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-gqeaxv8e
+2026-09-12 18:47:11,166 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:11,212 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:33989
+2026-09-12 18:47:11,212 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:33989
+2026-09-12 18:47:11,212 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-0
+2026-09-12 18:47:11,212 - distributed.worker - INFO -          dashboard at:         10.128.2.254:42257
+2026-09-12 18:47:11,212 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:11,212 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:11,212 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:11,213 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:11,213 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-x_gjmiwz
+2026-09-12 18:47:11,213 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:11,523 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:11,523 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:11,523 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:11,524 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:11,565 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:11,565 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:11,565 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:11,566 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+Exception ignored in: <function CachingFileManager.__del__ at 0x14fb517cc680>
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 258, in __del__
+    self.close(needs_lock=False)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 242, in close
+    file.close()
+  File "src/netCDF4/_netCDF4.pyx", line 2680, in netCDF4._netCDF4.Dataset.close
+  File "src/netCDF4/_netCDF4.pyx", line 2647, in netCDF4._netCDF4.Dataset._close
+  File "src/netCDF4/_netCDF4.pyx", line 2164, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: HDF error
+2026-09-12 18:47:21,760 - distributed.nanny - INFO - Worker process 3287681 was killed by signal 11
+2026-09-12 18:47:21,759 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:33329
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:52230 remote=tcp://10.128.2.254:33329>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:47:21,762 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:21,900 - distributed.worker - ERROR - Compute Failed
+Key:       ('concatenate-open_dataset-mean_chunk-f293a52f6877eb6b78fb453d8a440456', 92, 0, 0)
+State:     executing
+Task:  <Task ('concatenate-open_dataset-mean_chunk-f293a52f6877eb6b78fb453d8a440456', 92, 0, 0) _execute_subgraph(...)>
+Exception: 'RuntimeError("NetCDF: Can\'t open HDF5 attribute")'
+Traceback: '  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/dask/array/core.py", line 138, in getter\n    c = np.asarray(c)\n        ^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 686, in __array__\n    return np.asarray(self.get_duck_array(), dtype=dtype, copy=copy)\n                      ^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 691, in get_duck_array\n    return self.array.get_duck_array()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 924, in get_duck_array\n    return self.array.get_duck_array()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/coding/common.py", line 80, in get_duck_array\n    return self.func(self.array.get_duck_array())\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 764, in get_duck_array\n    array = self.array[self.key]\n            ~~~~~~~~~~^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 117, in __getitem__\n    return indexing.explicit_indexing_adapter(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 1156, in explicit_indexing_adapter\n    result = raw_indexing_method(raw_key.tuple)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 129, in _getitem\n    original_array = self.get_array(needs_lock=False)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 108, in get_array\n    ds = self.datastore._acquire(needs_lock)\n         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 532, in _acquire\n    with self._manager.acquire_context(needs_lock) as root:\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/contextlib.py", line 137, in __enter__\n    return next(self.gen)\n           ^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 207, in acquire_context\n    file, cached = self._acquire_with_cache_info(needs_lock)\n                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 225, in _acquire_with_cache_info\n    file = self._opener(*self._args, **kwargs)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "src/netCDF4/_netCDF4.pyx", line 2540, in netCDF4._netCDF4.Dataset.__init__\n  File "src/netCDF4/_netCDF4.pyx", line 2055, in netCDF4._netCDF4._get_vars\n  File "src/netCDF4/_netCDF4.pyx", line 2164, in netCDF4._netCDF4._ensure_nc_success\n'
+
+2026-09-12 18:47:22,701 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:33431
+2026-09-12 18:47:22,701 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:33431
+2026-09-12 18:47:22,701 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-6
+2026-09-12 18:47:22,701 - distributed.worker - INFO -          dashboard at:         10.128.2.254:43109
+2026-09-12 18:47:22,701 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:22,701 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:22,701 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:22,701 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:22,701 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-6j8ei4oy
+2026-09-12 18:47:22,701 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:23,045 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:23,046 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:23,046 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:23,046 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:29,059 - distributed.nanny - INFO - Worker process 3287690 was killed by signal 11
+2026-09-12 18:47:29,060 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:30,018 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:37373
+2026-09-12 18:47:30,018 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:37373
+2026-09-12 18:47:30,019 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-7
+2026-09-12 18:47:30,019 - distributed.worker - INFO -          dashboard at:         10.128.2.254:45833
+2026-09-12 18:47:30,019 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:30,019 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:30,019 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:30,019 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:30,019 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-hj07dtsg
+2026-09-12 18:47:30,019 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:30,354 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:30,354 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:30,354 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:30,355 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:35,357 - distributed.nanny - INFO - Worker process 3287710 was killed by signal 11
+2026-09-12 18:47:35,356 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:33975
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:42446 remote=tcp://10.128.2.254:33975>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:47:35,360 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:35,366 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:33975
+ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/core.py", line 342, in connect
+    comm = await wait_for(
+           ^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/utils.py", line 1910, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 560, in connect
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <distributed.comm.tcp.TCPConnector object at 0x1513a8eaec10>: ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1485, in connect
+    return await self._connect(addr=addr, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1429, in _connect
+    comm = await connect(
+           ^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/core.py", line 366, in connect
+    await asyncio.sleep(backoff)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/asyncio/tasks.py", line 639, in sleep
+    return await future
+           ^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1476, in connect
+    async with asyncio.timeout(math.inf) as scope:
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/asyncio/timeouts.py", line 111, in __aexit__
+    raise TimeoutError from exc_val
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2878, in get_data_from_worker
+    comm = await rpc.connect(worker)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1497, in connect
+    raise CommClosedError(reason)
+distributed.comm.core.CommClosedError: Address removed.
+Exception ignored in: <function CachingFileManager.__del__ at 0x15157183c7c0>
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 258, in __del__
+    self.close(needs_lock=False)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/file_manager.py", line 242, in close
+    file.close()
+  File "src/netCDF4/_netCDF4.pyx", line 2680, in netCDF4._netCDF4.Dataset.close
+  File "src/netCDF4/_netCDF4.pyx", line 2647, in netCDF4._netCDF4.Dataset._close
+  File "src/netCDF4/_netCDF4.pyx", line 2164, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: HDF error
+2026-09-12 18:47:35,416 - distributed.nanny - INFO - Worker process 3288041 was killed by signal 11
+2026-09-12 18:47:35,416 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:33989
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 861, in _read_to_buffer
+    bytes_read = self.read_from_fd(buf)
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/tornado/iostream.py", line 1113, in read_from_fd
+    return self.socket.recv_into(buf, len(buf))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2881, in get_data_from_worker
+    response = await send_recv(
+               ^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1018, in send_recv
+    response = await comm.read(deserializers=deserializers)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 237, in read
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <TCP (closed) Ephemeral Worker->Worker for gather local=tcp://10.128.2.254:52024 remote=tcp://10.128.2.254:33989>: ConnectionResetError: [Errno 104] Connection reset by peer
+2026-09-12 18:47:35,418 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:35,554 - distributed.worker - ERROR - Compute Failed
+Key:       ('concatenate-open_dataset-nanmin_skip-2889431b94c65aa56659c61d2443726c', 19, 0, 0)
+State:     executing
+Task:  <Task ('concatenate-open_dataset-nanmin_skip-2889431b94c65aa56659c61d2443726c', 19, 0, 0) _execute_subgraph(...)>
+Exception: "RuntimeError('NetCDF: HDF error')"
+Traceback: '  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/dask/array/core.py", line 138, in getter\n    c = np.asarray(c)\n        ^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 686, in __array__\n    return np.asarray(self.get_duck_array(), dtype=dtype, copy=copy)\n                      ^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 691, in get_duck_array\n    return self.array.get_duck_array()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 924, in get_duck_array\n    return self.array.get_duck_array()\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/coding/common.py", line 80, in get_duck_array\n    return self.func(self.array.get_duck_array())\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 764, in get_duck_array\n    array = self.array[self.key]\n            ~~~~~~~~~~^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 117, in __getitem__\n    return indexing.explicit_indexing_adapter(\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/core/indexing.py", line 1156, in explicit_indexing_adapter\n    result = raw_indexing_method(raw_key.tuple)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/xarray/backends/netCDF4_.py", line 130, in _getitem\n    array = getitem(original_array, key)\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File "src/netCDF4/_netCDF4.pyx", line 5083, in netCDF4._netCDF4.Variable.__getitem__\n  File "src/netCDF4/_netCDF4.pyx", line 4659, in netCDF4._netCDF4.Variable.shape.__get__\n  File "src/netCDF4/_netCDF4.pyx", line 3814, in netCDF4._netCDF4.Dimension.__len__\n  File "src/netCDF4/_netCDF4.pyx", line 2164, in netCDF4._netCDF4._ensure_nc_success\n'
+
+2026-09-12 18:47:36,313 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:41297
+2026-09-12 18:47:36,313 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:41297
+2026-09-12 18:47:36,313 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-5
+2026-09-12 18:47:36,313 - distributed.worker - INFO -          dashboard at:         10.128.2.254:39297
+2026-09-12 18:47:36,313 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:36,313 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:36,313 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:36,313 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:36,313 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-njqume5v
+2026-09-12 18:47:36,313 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:36,364 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:44869
+2026-09-12 18:47:36,364 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:44869
+2026-09-12 18:47:36,364 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-0
+2026-09-12 18:47:36,364 - distributed.worker - INFO -          dashboard at:         10.128.2.254:36915
+2026-09-12 18:47:36,364 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:36,364 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:36,364 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:36,364 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:36,364 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-ihgu19q0
+2026-09-12 18:47:36,364 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:36,655 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:36,655 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:36,655 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:36,656 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:36,701 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:36,702 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:36,702 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:36,702 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:38,650 - distributed.nanny - INFO - Worker process 3287945 was killed by signal 11
+2026-09-12 18:47:38,654 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:39,593 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:39417
+2026-09-12 18:47:39,594 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:39417
+2026-09-12 18:47:39,594 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-4
+2026-09-12 18:47:39,594 - distributed.worker - INFO -          dashboard at:         10.128.2.254:45471
+2026-09-12 18:47:39,594 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:39,594 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:39,594 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:39,594 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:39,594 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-x9bu4e_s
+2026-09-12 18:47:39,594 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:39,927 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:39,928 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:39,928 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:39,928 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:46,392 - distributed.nanny - INFO - Worker process 3288065 was killed by signal 11
+2026-09-12 18:47:46,395 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:46,403 - distributed.nanny - INFO - Worker process 3287934 was killed by signal 11
+2026-09-12 18:47:46,408 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:46,451 - distributed.nanny - INFO - Worker process 3287941 was killed by signal 11
+2026-09-12 18:47:46,498 - distributed.nanny - WARNING - Restarting worker
+2026-09-12 18:47:47,372 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:36067
+2026-09-12 18:47:47,372 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:36067
+2026-09-12 18:47:47,372 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-6
+2026-09-12 18:47:47,372 - distributed.worker - INFO -          dashboard at:         10.128.2.254:40281
+2026-09-12 18:47:47,372 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:47,372 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,372 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:47,372 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:47,372 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-d6l3xolc
+2026-09-12 18:47:47,372 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,378 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:36591
+2026-09-12 18:47:47,378 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:36591
+2026-09-12 18:47:47,378 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-2
+2026-09-12 18:47:47,378 - distributed.worker - INFO -          dashboard at:         10.128.2.254:43217
+2026-09-12 18:47:47,378 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:47,378 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,379 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:47,379 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:47,379 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-o2tpicae
+2026-09-12 18:47:47,379 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,466 - distributed.worker - INFO -       Start worker at:   tcp://10.128.2.254:44183
+2026-09-12 18:47:47,466 - distributed.worker - INFO -          Listening to:   tcp://10.128.2.254:44183
+2026-09-12 18:47:47,466 - distributed.worker - INFO -           Worker name:           SLURMCluster-1-1
+2026-09-12 18:47:47,466 - distributed.worker - INFO -          dashboard at:         10.128.2.254:41875
+2026-09-12 18:47:47,466 - distributed.worker - INFO - Waiting to connect to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:47,466 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,466 - distributed.worker - INFO -               Threads:                          1
+2026-09-12 18:47:47,466 - distributed.worker - INFO -                Memory:                  11.64 GiB
+2026-09-12 18:47:47,466 - distributed.worker - INFO -       Local Directory: /tmp/dask-scratch-space/worker-gi5ar1pn
+2026-09-12 18:47:47,466 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,724 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:47,725 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:47,725 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,725 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:47,727 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:47,727 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:47,728 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,728 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:47:47,816 - distributed.worker - INFO - Starting Worker plugin shuffle
+2026-09-12 18:47:47,817 - distributed.worker - INFO -         Registered to:     tcp://10.128.0.1:38513
+2026-09-12 18:47:47,817 - distributed.worker - INFO - -------------------------------------------------
+2026-09-12 18:47:47,817 - distributed.core - INFO - Starting established connection to tcp://10.128.0.1:38513
+2026-09-12 18:48:05,362 - distributed.worker - ERROR - Worker stream died during communication: tcp://10.128.2.254:33975
+ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/core.py", line 342, in connect
+    comm = await wait_for(
+           ^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/utils.py", line 1910, in wait_for
+    return await fut
+           ^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 560, in connect
+    convert_stream_closed_error(self, e)
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/tcp.py", line 143, in convert_stream_closed_error
+    raise CommClosedError(f"in {obj}: {exc.__class__.__name__}: {exc}") from exc
+distributed.comm.core.CommClosedError: in <distributed.comm.tcp.TCPConnector object at 0x1523fc165950>: ConnectionRefusedError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2075, in gather_dep
+    response = await get_data_from_worker(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/worker.py", line 2878, in get_data_from_worker
+    comm = await rpc.connect(worker)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1485, in connect
+    return await self._connect(addr=addr, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/core.py", line 1429, in _connect
+    comm = await connect(
+           ^^^^^^^^^^^^^^
+  File "/leonardo/home/userexternal/ntilinin/.conda/envs/ocean/lib/python3.11/site-packages/distributed/comm/core.py", line 368, in connect
+    raise OSError(
+OSError: Timed out trying to connect to tcp://10.128.2.254:33975 after 30 s
+[2026-09-12T18:49:36.966] error: *** JOB 57456848 ON lrdn4186 CANCELLED AT 2026-09-12T18:49:36 DUE to SIGNAL Terminated ***
+2026-09-12 18:49:36,967 - distributed.worker - INFO - Stopping worker at tcp://10.128.2.254:45307. Reason: scheduler-close
+2026-09-12 18:49:36,967 - distributed.worker - INFO - Stopping worker at tcp://10.128.2.254:37373. Reason: scheduler-close
+2026-09-12 18:49:36,967 - distributed.worker - INFO - Stopping worker at tcp://10.128.2.254:41297. Reason: scheduler-close
+2026-09-12 18:49:36,967 - distributed.worker - INFO - Stopping worker at tcp://10.128.2.254:44869. Reason: scheduler-close
+2026-09-12 18:49:36,967 - distributed.worker - INFO - Stopping worker at tcp://10.128.2.254:39417. Reason: scheduler-close
+2026-09-12 18:49:36,967 - distributed.worker - INFO - Stopping worker at tcp://10.128.2.254:36067. Reason: scheduler-close
+2026-09-12 18:49:36,967 - distributed.worker - INFO - Stopping worker at tcp://10.128.2.254:44183. Reason: scheduler-close
+2026-09-12 18:49:36,968 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.128.2.254:34179'. Reason: scheduler-close
+2026-09-12 18:49:36,968 - distributed.worker - INFO - Stopping worker at tcp://10.128.2.254:36591. Reason: scheduler-close
+2026-09-12 18:49:36,968 - distributed.worker - INFO - Removing Worker plugin shuffle
+2026-09-12 18:49:36,969 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.128.2.254:37423'. Reason: scheduler-close
+2026-09-12 18:49:36,969 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.128.2.254:40223'. Reason: scheduler-close
+2026-09-12 18:49:36,969 - distributed.worker - INFO - Removing Worker plugin shuffle
+2026-09-12 18:49:36,969 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.128.2.254:42267'. Reason: scheduler-close
+2026-09-12 18:49:36,969 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.128.2.254:40491'. Reason: scheduler-close
+2026-09-12 18:49:36,969 - distributed.worker - INFO - Removing Worker plugin shuffle
+2026-09-12 18:49:36,969 - distributed.worker - INFO - Removing Worker plugin shuffle
+2026-09-12 18:49:36,969 - distributed.nanny - INFO - Closing Nanny gracefully at 'tcp://10.128.2.254:38593'. Reason: scheduler-close
+2026-09-12 18:49:36,969 - distributed.worker - INFO - Removing Worker plugin shuffle
