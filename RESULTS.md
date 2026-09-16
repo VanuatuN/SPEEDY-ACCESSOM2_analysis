@@ -23,5 +23,5 @@ Both experiments start from the same ocean/sea-ice initial state and use Repeat 
 ![Global mean heat](figures/access_om2_global_mean_sflux_different_forcing.png)
 ![Cumulative_heat_uptake](figures/access_om2_global_mean_cum_heatuptake_different_forcing.png)
 ![Ann_heat_uptake](/figures/access_om2_global_mean_ann_heatuptake_different_forcing.png)
-![Heating_diff](figures/access_om2_global_mean_sflux_different_forcing.png)
+![Heating_diff](figures/accessom2_mean_net_surface_heating_speedy_forced_vs_jra55do_forced_1965_1994.png)
 ![SSS_diff](figures/accessom2_mean_sss_speedy_forced_vs_jra55do_forced_1965_1994.png)
