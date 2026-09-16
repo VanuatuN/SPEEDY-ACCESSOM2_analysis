@@ -20,7 +20,7 @@ Both experiments start from the same ocean/sea-ice initial state and use Repeat 
 
 ## Figures
 
-Generated figures are stored in `figures/`.
+![Global mean SST](../figures/access_om2_global_mean_sst_different_forcing.png)
 
 ## Results
 
