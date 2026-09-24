@@ -9,10 +9,6 @@ Two 1958–2019 ACCESS-OM2 1° experiments:
 
 <table>
 <tr>
-<td align="center"><b>This study</b></td>
-<td align="center"><b>Kiss et al. (2020), Fig. 3b</b></td>
-</tr>
-<tr>
 <td><img src="figures/access_om2_global_mean_sst_df_IAF.png" width="600"></td>
 <td><img src="figures/Kiss_SST.png" width="600"></td>
 </tr>
