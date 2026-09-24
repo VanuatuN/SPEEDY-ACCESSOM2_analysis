@@ -7,13 +7,9 @@ Two 1958–2019 ACCESS-OM2 1° experiments:
 
 ### Global mean SST
 
-<table>
-<tr>
-<td><img src="figures/access_om2_global_mean_sst_df_IAF.png" width="600"></td>
-<td><img src="figures/Kiss_SST.png" width="600"></td>
-</tr>
-</table>
+![Global mean SST](figures/access_om2_global_mean_sst_df_IAF.png)
 
+Reference: Kiss et al. (2020), Fig. 3.
 ### Global overturning circulation
 
 ![GMOC](figures/access_om2_GMOC_density_IAF.png)
