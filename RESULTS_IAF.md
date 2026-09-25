@@ -27,8 +27,6 @@ Reference: Kiss et al. (2020), Fig. 8.
 
 ### GMOC evolution
 
-figures/access_om2_GMOC_diff_IAF_1958-1968.png
-
 <table>
 <tr>
 <td align="center">
