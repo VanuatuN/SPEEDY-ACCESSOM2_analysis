@@ -27,33 +27,35 @@ Reference: Kiss et al. (2020), Fig. 8.
 
 ### GMOC evolution
 
+figures/access_om2_GMOC_diff_IAF_1958-1968.png
+
 <table>
 <tr>
 <td align="center">
-<img src="figures/access_om2_GMOC_density_IAF_1958-1968.png" width="100%"><br>
+<img src="figures/access_om2_GMOC_diff_IAF_1958-1968.png" width="100%"><br>
 <b>1958–1968</b>
 </td>
 <td align="center">
-<img src="figures/access_om2_GMOC_density_IAF_1968-1978.png" width="100%"><br>
+<img src="figures/access_om2_GMOC_diff_IAF_1968-1978.png" width="100%"><br>
 <b>1968–1978</b>
 </td>
 <td align="center">
-<img src="figures/access_om2_GMOC_density_IAF_1978-1988.png" width="100%"><br>
+<img src="figures/access_om2_GMOC_diff_IAF_1978-1988.png" width="100%"><br>
 <b>1978–1988</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="figures/access_om2_GMOC_density_IAF_1988-1998.png" width="100%"><br>
+<img src="figures/access_om2_GMOC_diff_IAF_1988-1998.png" width="100%"><br>
 <b>1988–1998</b>
 </td>
 <td align="center">
-<img src="figures/access_om2_GMOC_density_IAF_1998-2008.png" width="100%"><br>
+<img src="figures/access_om2_GMOC_diff_IAF_1998-2008.png" width="100%"><br>
 <b>1998–2008</b>
 </td>
 <td align="center">
-<img src="figures/access_om2_GMOC_density_IAF_2008-2018.png" width="100%"><br>
+<img src="figures/access_om2_GMOC_diff_IAF_2008-2018.png" width="100%"><br>
 <b>2008–2018</b>
 </td>
 </tr>
